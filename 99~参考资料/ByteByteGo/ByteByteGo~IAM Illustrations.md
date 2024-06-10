@@ -1,4 +1,4 @@
-# Authentication
+# IAM
 
 ![What’s the difference between Session-based authentication and JWTs?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/KWq3yldLom7e.png)
 
@@ -7,3 +7,5 @@
 ![EP72~Top 4 Forms of Authentication Mechanisms](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/IxjT7STnuImn.webp)
 
 ![EP75~How does a Password Manager such as 1Password or Lastpass work?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/we85FchMq1S2.webp)
+
+![EP86~Single Sign-On (SSO) explained in simple terms](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/sjYLtFvAv8VF.webp)
