@@ -12,4 +12,6 @@
 
 ![EP80~What is a database? What are some common types of databases?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/ObH64te2WEE7.webp)
 
-![7 must-know strategies to scale your database](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/RNiKFSQke1Ig.webp)
+![EP114~7 must-know strategies to scale your database](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/RNiKFSQke1Ig.webp)
+
+![EP116~Top 10 Most Popular Open-Source Databases](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/huphoXC8hOMJ.webp)

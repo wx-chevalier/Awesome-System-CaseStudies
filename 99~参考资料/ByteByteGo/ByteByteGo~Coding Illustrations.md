@@ -9,3 +9,5 @@
 ![10 Coding Principles Explained in 5 Minutes](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/sr5sBlwEPnvL.png)
 
 ![How do we retry on failures?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/wHIrFv2hc2Yl.webp)
+
+![EP116~11 steps to go from Junior to Senior Developer](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/LiyE8epxPHdA.webp)

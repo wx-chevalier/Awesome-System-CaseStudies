@@ -13,3 +13,5 @@
 ![EP73~HTTPS, SSL Handshake, and Data Encryption Explained to Kids](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/8Fs0OMWZQnRa.webp)
 
 ![EP85~Top 9 HTTP Request Methods](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/OQf40s0QQHcy.webp)
+
+![EP117~What makes HTTP2 faster than HTTP1?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/jFciJhgLahB4.webp)

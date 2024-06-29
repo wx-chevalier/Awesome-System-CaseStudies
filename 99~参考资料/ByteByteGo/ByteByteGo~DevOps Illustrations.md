@@ -7,3 +7,5 @@
 ![EP71~CI/CD Pipeline Explained in Simple Terms](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/Id0xu41GMpfs.webp)
 
 ![EP85~Log Parsing Cheat Sheet](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/dRUekpdXy2vc.webp)
+
+![EP117~Log Parsing Cheat Sheet](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/JaF5lHRwCsiK.webp)

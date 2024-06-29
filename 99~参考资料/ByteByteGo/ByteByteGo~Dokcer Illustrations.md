@@ -7,3 +7,5 @@
 ![EP81~Docker 101: Streamlining App Deployment](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/7Zhpr5yFbTS9.webp)
 
 ![Bare Metal VS VM VS Containerized](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/72Tt0P9c8PBK.webp)
+
+![EP116~Top 8 must-know Docker concepts](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/Yo8uKgMqpsEd.webp)
