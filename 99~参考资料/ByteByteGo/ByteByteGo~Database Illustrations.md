@@ -15,3 +15,7 @@
 ![EP114~7 must-know strategies to scale your database](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/RNiKFSQke1Ig.webp)
 
 ![EP116~Top 10 Most Popular Open-Source Databases](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/huphoXC8hOMJ.webp)
+
+![EP118~What are the differences among database locks?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/AyWHD27dK9jV.webp)
+
+![EP118~A Crash Course in Database Sharding](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/32jJcn3R20px.webp)
