@@ -9,3 +9,5 @@
 ![EP86~CAP, BASE, SOLID, KISS, What do these acronyms mean?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/t1tBpIF9FGhf.webp)
 
 ![2023~The Fantastic Four of System Design](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/rWCZOpnMIE6g.webp)
+
+![EP128~The Ultimate Software Architect Knowledge Map](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/YKHX8KkPBcGZ.png)

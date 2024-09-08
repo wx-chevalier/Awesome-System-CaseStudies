@@ -19,3 +19,5 @@
 ![EP118~What are the differences among database locks?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/AyWHD27dK9jV.webp)
 
 ![EP118~A Crash Course in Database Sharding](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/32jJcn3R20px.webp)
+
+![EP128~Is PostgreSQL eating the database world?](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/uPic/LYxWsTrDXaEA.png)
