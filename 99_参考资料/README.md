@@ -58,17 +58,17 @@
 
 # 大规模基础架构
 
-- [2017~深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
+- [2017\_深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
-- [2016~Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
+- [2016_Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
 
-- [2018~Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
+- [2018_Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
 
-- [2017~Distributed Systems-3rd edition》📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
+- [2017_Distributed Systems-3rd edition》📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
 # 创业公司的基础架构
 
-- [2019~一个牛逼的创业公司后台技术栈搭建方案](https://zhuanlan.zhihu.com/p/71267807): 说到后台技术栈，脑海中是不是浮现的下面这样一幅图？
+- [2019\_一个牛逼的创业公司后台技术栈搭建方案](https://zhuanlan.zhihu.com/p/71267807): 说到后台技术栈，脑海中是不是浮现的下面这样一幅图？
 
 # Others
 
